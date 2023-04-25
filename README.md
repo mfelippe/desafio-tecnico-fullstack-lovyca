@@ -15,7 +15,7 @@ Seu objetivo é criar uma aplicação web de gerenciamento de serviços para man
 - Banco de dados: MongoDB com Prisma ORM;
 
 A aplicação deve permitir que o usuário:
-- Criar um serviço;
+- Criar serviços;
 - Visualizar o serviço criado;
 - A avaliar o serviço (like e deslike);
 - Criar comentário sobre um serviço;
