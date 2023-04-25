@@ -17,7 +17,7 @@ Seu objetivo é criar uma aplicação web de gerenciamento de serviços para man
 A aplicação deve permitir que o usuário:
 - Criar serviços;
 - Visualizar o serviço criado;
-- A avaliar o serviço (like e deslike);
+- Avaliar o serviço (like e deslike);
 - Criar comentário sobre um serviço;
 - Visualizar os serviços existentes.
 
